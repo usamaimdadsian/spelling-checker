@@ -1,0 +1,8 @@
+numpy
+paddleocr
+nltk
+keras
+scikit-image
+python-opencv
+paddlepaddle
+tensorflow
